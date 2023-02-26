@@ -23,11 +23,28 @@ title: "課程大綱"
 {: .table .table-bordered}
 | 週次 | 日期 |    作業    | 主題                                               |
 | ---- | ---- | :--------: | :------------------------------------------------- |
-| 01   | xx/xx |           | 課程介紹、[...] |
+| 01   | 0305 |            | 課程介紹、開發環境介紹、變數、type、運算、IO、註解 |
+| 02   | 0312 |            | 邏輯判斷、if、while                                |
+| 03   | 0319 |            | for、range、list                                   |
+| 04   | 0326 |            | string、dict                                       |
+|      | 0402 |            | 清明連假，本週停課一次                             |
+| 05   | 0409 | 大作業公布 | function                                           |
+| 06   | 0416 |            | module、大作業練習                                 |
+| 07   | 0423 |            | 簡單衛教（error handling、coding style）、複習     |
+| 08   | 0430 | 大作業 Deadline | 考試                                               |
 
 ### 第二階段
 
 {: .table .table-bordered}
 | 週次 | 日期 |     作業     | 主題                                    |
 | ---- | ---- | :----------: | :-------------------------------------- |
-| 09   | xx/xx |  |  |
+| 09   | 0507 |              | 二階課程介紹、Class、OOP                |
+| 10   | 0514 |  大作業公布    | BOT、大作業 Setup                      |
+| 11   | 0521 |              | Python 前後端 Framework (Django, Flask+Request) |
+| 12   | 0528 |              | * （竹）Crawling (BS4, Selenium)／（北）pwntools                  |
+| 13   | 0604 |             |  *（竹）NumPy、Matplotlib、影像處理 (Pillow)／（北）Smtplib、Turtle    |
+| 14   | 0611 |              | 初探算法                               |
+| 15   | 0618 | 作業 Deadline | Discord Presentation                 |
+| 16   | 0625 |              | 未來展望                   |
+
+＊註：打星號的課程，兩區混合上課（學員可自由挑選想上的課）
