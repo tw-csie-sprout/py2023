@@ -4,7 +4,7 @@ title: "課程講義"
 ---
 # 課程講義
 
-- [北區課程側錄]
+- [北區課程側錄](https://www.youtube.com/playlist?list=PLp5kjMAmhp-86-ggY6T6R7aF9YeyQjulE)
 - [竹區課程側錄]
 
 ## 第一階段投影片
