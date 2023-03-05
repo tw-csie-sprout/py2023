@@ -16,4 +16,4 @@ title: "課程講義"
 | --- | --- | --- |
 | 課程介紹 | [Slide](https://drive.google.com/file/d/1wX1OJzfqasns7QFGsrJnF-6WabVKsN2c/view?usp=share_link) |  |
 | Python 簡介、開發環境介紹 | [Slide](https://www.canva.com/design/DAFbBghO2xA/CguKgzzWdnDtzWN12N7ZKA/view?utm_content=DAFbBghO2xA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |  |
-| 變數、type、運算、IO、註解 | [Slide](https://drive.google.com/file/d/1nNJwkf-2lJ3Crhn7k7aPsLiELX_HfYTK/view?usp=share_link) |  |
+| 變數、type、運算、IO、註解 | [Slide](https://drive.google.com/file/d/1op99RyWB4z86FE7ckF4SIcAz9RxWTB6Y/view?usp=share_link)、[notebook](https://drive.google.com/file/d/1JTOhLGQnrI_wuI_E_NT594HOng5HLBVy/view?usp=share_link) |  |
