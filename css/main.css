@@ -77,3 +77,20 @@ h1 {
 	margin: 40px 0 20px;
 	border-bottom: 1px solid #eee;
 }
+
+.navbar {
+	padding: 0 16px;
+}
+
+@media (min-width: 768px) {
+	.navbar {
+		position: fixed;
+		z-index: 42;
+		right: 0;
+		left: 0;
+		top: 0;
+	}
+	#md-content-container {
+		margin-top: 60px;
+	}
+}
