@@ -24,4 +24,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | 邏輯判斷、if | Slide | Slide |
-| 迴圈、while | Slide | [Slide](https://drive.google.com/file/d/1HnWjJBhinJOu1Yye0huOPJZxNzzfTX4P/view?usp=share_link) |
+| 迴圈、while | [Slide](https://drive.google.com/file/d/1Y5sgGAt_BkFoqcLh9kbRV8UwEPQeOiqG/view?usp=share_link) | [Slide](https://drive.google.com/file/d/1HnWjJBhinJOu1Yye0huOPJZxNzzfTX4P/view?usp=share_link) |
