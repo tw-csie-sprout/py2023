@@ -31,5 +31,5 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| For、range、iterable | [Slide (HackMD)](https://hackmd.io/@howardhsuuu/B1R0LFnCs#/) | [Slide]() |
-| List | [Slide]() | [Slide]() |
+| For、range、iterable | [Slide (HackMD)](https://hackmd.io/@howardhsuuu/B1R0LFnCs#/) | [Slide](https://hackmd.io/d7iRbAabT3OlTFbw6sRptg) |
+| List | [Slide]() | [Slide](https://hackmd.io/rIEP0wDhSiKrV_udWgfJVg) |
