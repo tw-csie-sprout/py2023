@@ -32,4 +32,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | For、range、iterable | [Slide (HackMD)](https://hackmd.io/@howardhsuuu/B1R0LFnCs#/) | [Slide (HackMD)](https://hackmd.io/d7iRbAabT3OlTFbw6sRptg) |
-| List | [Slide]() | [Slide (HackMD)](https://hackmd.io/rIEP0wDhSiKrV_udWgfJVg) |
+| List | [Slide](https://hackmd.io/@s3131212/BkQhTko13) | [Slide (HackMD)](https://hackmd.io/rIEP0wDhSiKrV_udWgfJVg) |
