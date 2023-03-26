@@ -41,4 +41,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | String | [Slide (HackMD)](https://hackmd.io/@s3131212/rkZYT74lh) | [Slide (HackMD)](https://hackmd.io/@Sean64/py-string) |
-| Dict | [Slide (HackMD)](https://hackmd.io/@YuKai0928/Bk-Tf2ops) |  |
+| Dict | [Slide (HackMD)](https://hackmd.io/@YuKai0928/Bk-Tf2ops) | [Slide (HackMD)](https://hackmd.io/@Fireball0424/BJGaYjpyh#/) |
