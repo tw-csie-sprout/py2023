@@ -42,3 +42,11 @@ title: "課程講義"
 | --- | --- | --- |
 | String | [Slide (HackMD)](https://hackmd.io/@s3131212/rkZYT74lh) | [Slide (HackMD)](https://hackmd.io/@Sean64/py-string) |
 | Dict | [Slide (HackMD)](https://hackmd.io/@YuKai0928/Bk-Tf2ops) | [Slide (HackMD)](https://hackmd.io/@Fireball0424/BJGaYjpyh/) |
+
+### Week 5 (04/09)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Function |  | [Slide (HackMD)](https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/ByZlAM3bh#/) |
+| 大作業 |  |  |
