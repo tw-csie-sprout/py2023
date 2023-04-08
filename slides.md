@@ -49,4 +49,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Function |  | [Slide (HackMD)](https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/ByZlAM3bh#/) |
-| 大作業 |  |  |
+| 大作業 | [Spec (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/rJu6Gctxn), [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/BkUS8Dpxn#/) |  |
