@@ -50,6 +50,7 @@ title: "課程講義"
 | --- | --- | --- |
 | Function | [Slide (HackMD)](https://hackmd.io/@Ev0n9YKlTzCKhedHrgZ2zw/rJvWOZn-3) | [Slide (HackMD)](https://hackmd.io/@nWxhMfNES0-4UHCSWXJMcg/ByZlAM3bh) |
 | 大作業 | [Spec (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/rJu6Gctxn), [Slide (HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/BkUS8Dpxn) | [Slide (HackMD)](https://hackmd.io/@SiriusKoan/HJVPMrFW3) |
+
 ### Week 6 (04/16)
 
 {: .table .table-bordered}
