@@ -56,5 +56,5 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Module | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-module/slide.slides.html#/) |  |
+| Module | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-module/slide.slides.html#/) | [Slide (HackMD)](https://hackmd.io/@Ren-Hao-Deng/python-module) |
 | 大作業練習 | | |
