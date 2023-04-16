@@ -45,6 +45,6 @@ title: "課程大綱"
 | 13   | 0604 |             |  *（竹）NumPy、Matplotlib、影像處理 (Pillow)／（北）Smtplib、Turtle    |
 | 14   | 0611 |              | 初探算法                               |
 | 15   | 0618 | 作業 Deadline | Discord Presentation                 |
-| 16   | 0625 |              | 未來展望                   |
+| 16   | 0702 |              | 未來展望                   |
 
 ＊註：打星號的課程，兩區混合上課（學員可自由挑選想上的課）
