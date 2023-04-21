@@ -58,3 +58,11 @@ title: "課程講義"
 | --- | --- | --- |
 | Module | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-module/slide.slides.html#/) | [Slide (HackMD)](https://hackmd.io/@Ren-Hao-Deng/python-module) |
 | 大作業練習 | | |
+
+### Week 7 (04/23)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Coding Style | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-coding_style/slide.slides.html#/) |  |
+| 複習 | | |
