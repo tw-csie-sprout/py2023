@@ -64,5 +64,5 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Coding Style | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-coding_style/slide.slides.html#/) |  |
-| 複習 |[Slide (HackMD)](https://hackmd.io/@YuKai0928/BJ3kX5nai#/) | |
+| Coding Style | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-coding_style/slide.slides.html#/) | [Slide](https://drive.google.com/file/d/1BDTrtnl0KN22IxdY0awTctIBwbVfyzSk/view) |
+| 複習 |[Slide (HackMD)](https://hackmd.io/@YuKai0928/BJ3kX5nai#/) | [Slide (HackMD)](https://hackmd.io/@SiriusKoan/Hkpamr9M3#/) |
