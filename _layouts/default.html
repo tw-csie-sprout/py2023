@@ -11,7 +11,8 @@
 	<!-- for social media -->
 	<meta property="og:url" content="{{ site.url }}{{ page.url | remove: '.html' }}">
 	<meta property="og:site_name" content="{{ site.title }}" />
-	<meta property="og:image" content="{{ site.url }}/assets/img/logo.png" />
+	<meta property="og:image" content="{% if page.img %}{{ page.img }}{% else %}{{ site.url }}/assets/img/logo.png{% endif %}" />
+	{% if page.img %}<meta name="twitter:card" content="summary_large_image">{% endif %}
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
