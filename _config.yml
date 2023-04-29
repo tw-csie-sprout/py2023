@@ -11,5 +11,7 @@ navbar_items:
   url: .
 - title: 課程講義
   url: slides
+- title: 講師介紹
+  url: speaker
 - title: 作業與練習
   url: homework
