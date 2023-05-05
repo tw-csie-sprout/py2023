@@ -75,5 +75,5 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | 課程介紹 |  |  |
-| Class |  | [Slide (HackMD)](https://hackmd.io/@Sean64/py-class) |
+| Class | [Slide](https://drive.google.com/file/d/1FxaTgvvHb-20o1169kOWAk7hOfB8XFRg/view?usp=share_link) | [Slide (HackMD)](https://hackmd.io/@Sean64/py-class) |
 | OOP |  |  |
