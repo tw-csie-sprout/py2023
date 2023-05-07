@@ -74,6 +74,6 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| 課程介紹 | [Slide](https://drive.google.com/file/d/12lCU49099lbGFXYWynd1N5HXpZPe5Ezu/view?usp=sharing) |  |
+| 課程介紹 | [Slide](https://drive.google.com/file/d/12lCU49099lbGFXYWynd1N5HXpZPe5Ezu/view?usp=sharing) | [Slide](https://drive.google.com/file/d/1OOSGxr7uWa_I-08rMULLgkKpqsGZFDGH/view?usp=sharing) |
 | Class | [Slide](https://drive.google.com/file/d/1FxaTgvvHb-20o1169kOWAk7hOfB8XFRg/view?usp=share_link) | [Slide (HackMD)](https://hackmd.io/@Sean64/py-class) |
 | OOP |  |  |
