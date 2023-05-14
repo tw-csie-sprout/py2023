@@ -91,4 +91,4 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Flask | Slide | [Slide](https://drive.google.com/file/d/13EgMg3h1SfO73gphj2NQLyghgarB2ERi/view?usp=share_link) |
+| Flask | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-flask/slide.slides.html#/) | [Slide](https://drive.google.com/file/d/13EgMg3h1SfO73gphj2NQLyghgarB2ERi/view?usp=share_link) |
