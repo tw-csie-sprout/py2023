@@ -91,4 +91,4 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Flask | Slide | [Slide]([https://hackmd.io/@SiriusKoan/B1-bSVP4n#/](https://drive.google.com/file/d/13EgMg3h1SfO73gphj2NQLyghgarB2ERi/view?usp=share_link)) |
+| Flask | Slide | [Slide](https://drive.google.com/file/d/13EgMg3h1SfO73gphj2NQLyghgarB2ERi/view?usp=share_link) |
