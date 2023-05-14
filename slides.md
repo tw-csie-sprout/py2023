@@ -85,3 +85,10 @@ title: "課程講義"
 | --- | --- | --- |
 | BOT | [Slide](https://drive.google.com/file/d/1ygqbexHVrgsA9sDZVAYld5u3jKFH_ewv/view?usp=share_link) | [Slide](https://hackmd.io/@SiriusKoan/B1-bSVP4n#/) |
 | 大作業 Setup | [Slide (HackMD)](https://hackmd.io/@Fireball0424/HkED_0UXn#/) | [Slide (HackMD)](https://hackmd.io/@Fireball0424/HkED_0UXn#/) |
+
+### Week 11 (05/21)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Flask | Slide | [Slide]([https://hackmd.io/@SiriusKoan/B1-bSVP4n#/](https://drive.google.com/file/d/13EgMg3h1SfO73gphj2NQLyghgarB2ERi/view?usp=share_link)) |
