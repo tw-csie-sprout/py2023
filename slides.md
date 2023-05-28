@@ -96,7 +96,8 @@ title: "課程講義"
 ### Week 12 (05/21)
 
 {: .table .table-bordered}
-| 主題 | 北區 |
-| --- | --- |
-| Pwntool | [Slide (HackMD)](https://hackmd.io/@YuKai0928/rkKzhw4b2)) |
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Pwntool | [Slide (HackMD)](https://hackmd.io/@YuKai0928/rkKzhw4b2)) | |
+| Basic Web Crawling | | [Slide (HackMD)](https://hackmd.io/@Z_ZMXd6ISlObZMLPsr_6WA/Hy4yoWl8h#/)
 
