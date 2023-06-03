@@ -93,11 +93,20 @@ title: "課程講義"
 | --- | --- | --- |
 | Flask | [Slide (Jupyter)](https://namwoam.github.io/sprout-material/py2023-taipei-flask/slide.slides.html#/) | [Slide](https://drive.google.com/file/d/13EgMg3h1SfO73gphj2NQLyghgarB2ERi/view?usp=share_link) |
 
-### Week 12 (05/21)
+### Week 12 (05/28)
 
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Pwntool | [Slide (HackMD)](https://hackmd.io/@YuKai0928/rkKzhw4b2)) | |
-| Basic Web Crawling | | [Slide (HackMD)](https://hackmd.io/@Z_ZMXd6ISlObZMLPsr_6WA/Hy4yoWl8h#/)
+| Basic Web Crawling | | [Slide (HackMD)](https://hackmd.io/@Z_ZMXd6ISlObZMLPsr_6WA/Hy4yoWl8h#/) |
 
+### Week 13 (06/04)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Smtplib | | |
+| Numpy/Matplotlib | | [Slide (HackMD)](https://hackmd.io/@Ren-Hao-Deng/python-np-plt) |
+| Turtle | | |
+| 影像處理 (Pillow) | | |
