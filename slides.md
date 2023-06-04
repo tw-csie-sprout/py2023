@@ -109,4 +109,4 @@ title: "課程講義"
 | Smtplib | [Slide](https://drive.google.com/file/d/1-T-RhrjK3zTI9Nlt6Nbf4rTl9wHRMK2p/view?usp=sharing)| |
 | Numpy/Matplotlib | | [Slide (HackMD)](https://hackmd.io/@Ren-Hao-Deng/python-np-plt) |
 | Turtle | [Slide](https://drive.google.com/file/d/1901oSWmYLZxTpcc-JINbLVkpJOzeGaXz/view?usp=sharing) | |
-| 影像處理 (Pillow) | | |
+| 影像處理 (Pillow) | | [Slide (HackMD)](https://hackmd.io/@Fireball0424/SJ9H1KgUh) |
