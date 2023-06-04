@@ -106,7 +106,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
-| Smtplib | | |
+| Smtplib | [Slide](https://drive.google.com/file/d/1-T-RhrjK3zTI9Nlt6Nbf4rTl9wHRMK2p/view?usp=sharing)| |
 | Numpy/Matplotlib | | [Slide (HackMD)](https://hackmd.io/@Ren-Hao-Deng/python-np-plt) |
-| Turtle | | |
+| Turtle | [Slide](https://drive.google.com/file/d/1901oSWmYLZxTpcc-JINbLVkpJOzeGaXz/view?usp=sharing) | |
 | 影像處理 (Pillow) | | |
