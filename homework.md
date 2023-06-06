@@ -24,3 +24,4 @@ title: "課程作業"
 | 日期  | 週次 | 上課練習 | 勾選作業 | 其他習題 | 檢討 |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | 05/21 | 11 |  | [Flask 作業](https://hackmd.io/@namwoam/ryZrGmRV3)、[繳交表單](https://forms.gle/cmseCfiz4Si2NUWm8) |  |  |
+| 06/04 | 13 |  | [turtle 作業]([https://hackmd.io/@namwoam/ryZrGmRV3](https://drive.google.com/file/d/1U43YWlV_vO3LA_T1zXI-i498e5pEAQB0/view?usp=sharing))、[繳交表單]([https://forms.gle/cmseCfiz4Si2NUWm8](https://forms.gle/Ch49Ngg6fTFP6yyj6)) |  |  |
