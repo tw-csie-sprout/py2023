@@ -116,3 +116,4 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Flask | [Slide (HackMD)](https://hackmd.io/@s3131212/SydPlrhI2) |  |
+| Algorithm | | [Slide (HackMD)](https://hackmd.io/Ezu6bpGNR_SUcDYI2QdYAQ) |
