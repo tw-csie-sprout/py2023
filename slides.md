@@ -110,3 +110,9 @@ title: "課程講義"
 | Numpy/Matplotlib | | [Slide (HackMD)](https://hackmd.io/@Ren-Hao-Deng/python-np-plt) |
 | Turtle | [Slide](https://drive.google.com/file/d/1901oSWmYLZxTpcc-JINbLVkpJOzeGaXz/view?usp=sharing) | |
 | 影像處理 (Pillow) | | [Slide (HackMD)](https://hackmd.io/@Fireball0424/SJ9H1KgUh) |
+
+### Week 14 (06/11)
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| Flask | [Slide (HackMD)](https://hackmd.io/@s3131212/SydPlrhI2) |  |
