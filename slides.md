@@ -125,5 +125,5 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | 未來展望 | [Linux - Slide](https://drive.google.com/file/d/1JvUVC9uAQZEmRY0XMN2s4ADiarBMNW9w/view?usp=sharing) |  |
-|  | [Git - Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/ByuWMfQO2#/) |  |
+| 未來展望 | [Git - Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/ByuWMfQO2#/) |  |
 
