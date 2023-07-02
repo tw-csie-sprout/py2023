@@ -126,6 +126,6 @@ title: "課程講義"
 | --- | --- | --- |
 | 自動化部署 |  | [Slide (HackMD)](https://hackmd.io/@Sean64/cicd-sprout2023) |
 | Linux | [Slide](https://drive.google.com/file/d/1JvUVC9uAQZEmRY0XMN2s4ADiarBMNW9w/view) |  |
-| 未來展望 |  |  |
+| 未來展望 |  | [Slide (HackMD)](https://hackmd.io/@William-Mou/SJ7-4K0Oh#/) |
 | Git | [Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/ByuWMfQO2) |  |
 
