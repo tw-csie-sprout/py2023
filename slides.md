@@ -117,3 +117,13 @@ title: "課程講義"
 | 主題 | 北區 | 竹區 |
 | --- | --- | --- |
 | Algorithm | [Slide (HackMD)](https://hackmd.io/@s3131212/SydPlrhI2) | [Slide (HackMD)](https://hackmd.io/Ezu6bpGNR_SUcDYI2QdYAQ) |
+
+
+### Week 16 (07/02)
+
+{: .table .table-bordered}
+| 主題 | 北區 | 竹區 |
+| --- | --- | --- |
+| 未來展望 | [Linux - Slide](https://drive.google.com/file/d/1JvUVC9uAQZEmRY0XMN2s4ADiarBMNW9w/view?usp=sharing) |  |
+|  | [Git - Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/ByuWMfQO2#/) |  |
+
