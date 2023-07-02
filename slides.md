@@ -131,6 +131,8 @@ title: "課程講義"
 
 
 ### Thanks!
+
+{: .table .table-bordered}
 | 主題 | 連結 |
 | --- | --- |
 | 回饋表單 | https://forms.gle/oVsWETfvt1ATECHr8 |
