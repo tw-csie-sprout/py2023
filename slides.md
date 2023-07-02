@@ -129,3 +129,10 @@ title: "課程講義"
 | 未來展望 |  | [Slide (HackMD)](https://hackmd.io/@William-Mou/SJ7-4K0Oh#/) |
 | Git | [Slide(HackMD)](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/ByuWMfQO2) |  |
 
+
+### Thanks!
+| 主題 | 連結 |
+| --- | --- |
+| 回饋表單 | https://forms.gle/oVsWETfvt1ATECHr8 |
+| 學習歷程需求 | https://forms.gle/KHvSidQCTeT3vzx47 |
+
